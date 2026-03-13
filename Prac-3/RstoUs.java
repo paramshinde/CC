@@ -5,7 +5,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-public class home{
+public class RstoUs{
     public static void main(String args[])
     throws Exception{
         String url="http://127.0.0.1:9876/convert";
